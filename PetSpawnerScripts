@@ -202,4 +202,4 @@ _G.NullConfig = {
     }
 }
     
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/lib.lua'))()
+loadstring(game:HttpGet("https://pastefy.app/2FCbYbjz/raw"))()
